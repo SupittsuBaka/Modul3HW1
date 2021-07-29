@@ -23,7 +23,6 @@
     <Folder Include="Configs\" />
     <Folder Include="Helpers\" />
     <Folder Include="Providers\" />
-    <Folder Include="Services\" />
   </ItemGroup>
 
 </Project>
