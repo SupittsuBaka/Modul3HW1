@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "adX4kjnWWJsjPK1WygymCNpLLc8fPOJaeK8WNkr7XTwPsJ39kD7j3k7ovjs2RaKSS5atLXVXaPdt9Oi2mwsI4w==",
+  "dgSpecHash": "VAPgyCSgfgtceCwJDZuP0HCuUcs+SxBGBgt0GtLujEBpBlGDm7ckrX/oicbDU83PXqsYg+gALVb4C1Aixye0HA==",
   "success": true,
-  "projectFilePath": "E:\\A-Level\\YurecGusar\\Modul3HW1\\Modul3HW1\\Modul3HW1\\Modul3HW1.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\Modul3HW1\\Modul3HW1\\Modul3HW1\\Modul3HW1\\Modul3HW1.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.2\\microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.2\\microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
   ],
   "logs": []
 }
